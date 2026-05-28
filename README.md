@@ -92,4 +92,4 @@ usinagem_sistema/
 
 **Daniel** — [@DanielFatec1911](https://github.com/DanielFatec1911)
 
-Projeto desenvolvido para portfólio acadêmico — FATEC
+Projeto desenvolvido
